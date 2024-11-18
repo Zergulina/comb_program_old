@@ -1,0 +1,19 @@
+.Title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.Text {
+    margin: auto;
+    font-size: 1.2rem;
+}
+
+.ButtonContainer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}

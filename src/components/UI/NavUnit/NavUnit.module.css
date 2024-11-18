@@ -1,0 +1,26 @@
+.NavUnit {
+    padding: 0px 20px;
+    display: flex;
+    text-decoration: none;
+    color: inherit;
+    user-drag: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    border-right: 1px solid rgb(91, 91, 91);
+}
+
+.NavUnitText {
+    margin: auto;
+}
+
+.NavUnit:hover {
+    background-color: #535151;
+    color: white;
+}
+
+.NavUnitActive
+ {
+    background-color: #9d2c2a;
+    color: white;
+}

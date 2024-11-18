@@ -1,0 +1,11 @@
+.TableHeader {
+    display:inline-flex;
+}
+
+.ConstantHeader {
+    color: blue;
+}
+
+.EditableHeader {
+    color: red;
+}

@@ -1,0 +1,9 @@
+.SVGHolderButton {
+    height: 100%;
+    padding: 0;
+    margin: 0;    
+}
+
+.SVGHolderButton:hover path{
+    fill: #9d2c2a;
+}

@@ -1,0 +1,10 @@
+.TableCellConst {
+    width:200px;
+    height: 40px;
+    display: flex;
+    border: 1px solid black;
+}
+
+.TableCellConstText {
+    margin: auto;
+}

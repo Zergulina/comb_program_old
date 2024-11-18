@@ -1,0 +1,29 @@
+.UserCombPage {
+    overflow-y: auto;
+    height: 95vh;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.Block {
+    margin-top: 10px;
+    width: 750px;
+    display: flex;
+    justify-content: left;
+}
+
+.InlineBlock {
+   font-size: 20px;
+}
+
+.BlockLeft {
+    width:80%;
+    /* padding-left: 10%; */
+}
+
+.BlockRight {
+    width:20%;
+    display: flex;
+    justify-content: left;
+}

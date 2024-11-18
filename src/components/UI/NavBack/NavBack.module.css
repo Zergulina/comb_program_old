@@ -1,0 +1,30 @@
+.NavBack:hover {
+    background-color: #535151;
+    border-top: white;
+    border-right: white;
+}
+
+.NavBack:hover .Arrow {
+    border-color: white;
+
+}
+
+.ArrowContainer {
+    height: 100%;
+    width: 50px;
+    display: flex;
+    border-right: 1px solid rgb(91, 91, 91);
+    margin-left: 5px;
+}
+
+.Arrow {
+    width: 40%;
+    height: 55%;
+    border-top: 5px solid #9d2c2a;
+    border-right: 5px solid #9d2c2a;
+    margin: auto;
+}
+
+.ArrowLeft {
+    transform: rotate(-135deg);
+}

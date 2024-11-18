@@ -1,0 +1,35 @@
+.Card {
+    width: 650px;
+    height: 350px;
+    border-radius: 10px;
+    border: 3px solid #9d2c2a;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.Card:hover {
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.CardLink {
+    margin-bottom: 20px;
+}
+
+.TitleHolder {
+    font-style: italic;
+    color: #9d2c2a;
+    position: absolute;
+    border-radius: 10px 0 0 0;
+    border: solid#9d2c2a;
+    border-right: 3px;
+    border-bottom: 3px;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    padding: 10px 20px;
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 3em;
+    font-weight: 900;
+}

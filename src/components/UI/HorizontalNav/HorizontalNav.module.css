@@ -1,0 +1,9 @@
+.HorizontalNav {
+  height: 35px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #c8c7c7;
+  display: flex;
+  vertical-align: middle;
+}

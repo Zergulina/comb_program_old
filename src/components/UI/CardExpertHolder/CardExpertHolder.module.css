@@ -1,0 +1,14 @@
+.CardExpertHolder {
+    overflow-y: auto;
+    padding: 20px 0;
+    padding-right: 20px;
+    margin-left: 20px;
+    padding-bottom: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    overflow-y: auto;
+    align-content: start;
+    height: calc(100vh - 35px);
+    gap: 10px 20px;
+}

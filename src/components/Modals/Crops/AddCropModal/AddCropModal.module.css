@@ -1,0 +1,32 @@
+.Title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+}
+
+.Input {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    width: 385px;
+}
+
+.Text {
+    margin: auto;
+    font-size: 1.2rem;
+}
+
+.InputImageContainer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.ButtonContainer {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}

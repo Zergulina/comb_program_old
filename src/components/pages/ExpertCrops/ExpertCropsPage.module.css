@@ -1,0 +1,9 @@
+.ButtonHolder {
+    display: flex;
+    justify-content: center;
+}
+
+.AddButton {
+    position: absolute;
+    bottom: 20px;
+}   
